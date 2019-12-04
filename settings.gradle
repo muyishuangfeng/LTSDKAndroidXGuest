@@ -1,0 +1,2 @@
+include  ':LTSDKAndroidXGuest'
+rootProject.name='LTGameSDKGuest'
